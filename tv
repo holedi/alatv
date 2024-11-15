@@ -1,0 +1,264 @@
+#EXTM3U
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/400px-Caracol_Televisi%C3%B3n_logo.svg.png", CARACOL
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
+
+#EXTINF:-1 group-title="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Se%C3%B1al_Colombia_logo.svg/1200px-Se%C3%B1al_Colombia_logo.svg.png", SEÑAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple125/v4/e0/34/b3/e034b35d-5e0d-4e06-0d06-87af4713e1a4/source/256x256bb.jpg", RCN 
+http://45.177.53.7:8000/play/a0jl/index.m3u8
+
+#EXTINF:-1  group-title="Colombia" tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rcn-xtra_2.png/1280px-Rcn-xtra_2.png”, RCN EXTRA
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Colombia" tvg-logo=“https://img3.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-mas_1.jpg”, RCN MAS+
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Colombia" tvg-logo=“https://www.hualavision.cl/wp-content/uploads/2020/12/15lared.jpg”, LA RED 
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/03.m3u8
+
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Canal_tro_logo.PNG", TV SAN JORGE
+https://asucap.com/livestream/asucap_envivo.m3u8
+
+#EXTINF:-1 group-title="Venezuela" tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg”, TVS MARACAY
+https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
+
+#EXTINF:-1 group-title="Venezuela" tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/b/bb/Meridiano_Televisi%C3%B3n.png”, MERIDIANO TV
+http://38.41.8.1:8000/play/a03w
+
+#EXTINF:-1 group-title="Venezuela" tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg”, GLOBOVISION
+http://38.41.8.1:8000/play/a03u
+
+#EXTINF:-1 group-title="Venezuela" tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo-avilatv.png”, AVILA TV
+http://38.41.8.1:8000/play/a03t
+
+#EXTINF:-1 group-title="Venezuela" tvg-logo=“https://s3.us-east-1.amazonaws.com/forofms.na/gallery/category_7/small.gallery_1163_7_9374.png.d7c64426bb196cc80e6ac45c7e5f85a5.png”, ANZOATIGUI TV
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+
+#EXTINF:-1 group-title="Venezuela" tvg-logo=“https://nutricionyembarazo.com/wp-content/uploads/2020/07/logo-VPI-TV-Logo_2018_VPItv_grey-04.png”, VPI
+https://edge.streann.com/vpi1/vpi1/chunks.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1aWQiOiJhbm9ueW1vdXMiLCJpcCI6IjE5MC45Ni4xNDkuNjEiLCJleHAiOjE3MjM2MDE0MzgsInJpZCI6IjVkMjNiMWNlMmNkY2U2MWRhZTAyOWY5YyIsImtleSI6ImtleTEiLCJjaWQiOiI1ZDIzZDU4ODJjZGNlNjFkYWUwMjlmZDgifQ.dpRXulewWwDyBvMOZhlqPaFv8ZUCF73o1SdUN0pPVJE
+
+#EXTINF:-1 group-title="Venezuela" tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/3/38/Logo_Colombeia.png”, COLOMBEIA 
+http://38.41.8.1:8000/play/a03n
+
+#EXTINF:-1 group-title="Venezuela" tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/0/0a/Logotipo_de_Venevisi%C3%B3n.svg”, VENEVISION 
+http://38.41.8.1:8000/play/a03v
+
+#EXTINF:-1 group-title="Venezuela" tvg-logo=“https://app.televen.com/img/logo.svg”, TELEVEN
+https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/fstl=exp=1723673582~data=ip=190.96.149.61%2Cid=TLV-GUEST%2Cpid=255%2Cdid=N%2FA%2Csid=WBS~acl=%2F10255%2Flive%2Fhls%2Fteleven%2F%2A~hmac=87170859ec7781856f55cf704b7db5e0237abb113af1b6b0edb0a191c5d6e57f/index_1.m3u8?AVC_DATE=2024-08-13&AVC_INVIEW=1&AVC_INVIEWPERC=100&AV_CATEGORY=IAB1-7&AV_CCPA=1YYY&AV_CHANNEL_NAME=Televen+HD&AV_CONTENT_TYPE=LIVE&AV_DNT=0&AV_DTRACK=1&AV_LANGUAGE=Sp&AV_SECURED=1&AV_SITE_CATEGORY=IAB1-7&AV_TITLE=Televen+HD&AV_UPAL=AQzzBGQErwt4adDy74LnSxga5qJT2tMwB-UIV3nSv3y3FNwdYy6uAWegb7gkIWQ1udexxJohPrwofxpS0AeaYLC5LcKZrC4ixTDYwef2MmZ5cQdjgwFUoW6pvLzmp6JsEOKBAeh417h3jI4OQjVA5WWHIF0ApSHeI1SZvwiWTxTsytPKzoKHTwU_Cp9gicYPiF3demCF3SdNxMx7txbcbFQqriH7--YyEs4N2SJ7vXJUfZoCx7Hbp3hk4LrPhHeY6uciHfRZ2o89Pdppsv6x-3HlN3769kq9mNF0exiIFXqvcpclRUQ19O1nCM2mlRPcl6L8dchb0reKkJbXBmxPD7Xs63rUsQiXZ3eTaYFQrWS-CE56VV2clOPVHZUXtK80y3rYZ8-JNBwtlpLD57uUZJoP09NCczmnKEX0dhmqpD6YNgJ_XfMSDRU_8K41aTXQi1QdxI2nFsLtXVcIVdvhvmcSpYqHzCeyv4dy4o2_yXho-fGdNdmI0nLGbyNsJc2CarjmbkrIzMTG21GseZbDsE-vWEa5wMop-AvLw1dImUm-edx6dEpEnBh1mDZKBRydilCiMVuB-3DwaE22P5TLg_xlKSwi42-GVM-xoV847PTzp4pyUI0CEedfbm__L6jZlAbsT7dcvKwedvdGF7pL7bXkGn9NchdVnrNiKhleQTzzVAYq1h3zKQ0il5HstXzeqJi6Nxzoh1mCJTHi_23y--JTLPUFwNVPFXTzSz01tOAMHZ9F2LOb3kwi8vKP23nwOTvCee9Psvb2dqLjroiWgOnpkexIGnoEwRp8wScCknkLmXw9_DBDgItxuTDp29lxiiljMljYLIK0nFTkmVfV3lhAteyj3-_rGTlRxOjQKe7djIArms5i76eH4K_vKWIkk42Y4b5rRDoTcZRP0z8_RjnmpsYgviYUzNwkUqWfMcrD4j6uBzYC88MiTP-JTy0i2DV36BhOb0b4189lEYj9naQt6M4VND90FabRGDIdOZ55e-ANMs_Ggr8XD-VMO-MYw1uhyGZmnMu0QK68uvXQdZ9414BLeqG53wcC0pZZFSzuWrw1GzJ8QG-1D9Rxv_n47-StrJeDRJEPik6QuM9Ewk3bSFBK3P1xB-7MHwNA3hd5E38M-EEoPvNTbJo5EXC1x146trtCQNrYkmmh1oJczJuK1AIhzSxQxuJTDvifARqQf5m07Wpwckt2PwbRhPe4hkSUGj6FyMRToCLT428i6O4XMAY_tDnikaGa3IRv_B1Pvq2KoSRIgHQKaSRLpSojwo9rNo0xPYkNi-qZeb04hUK2whseX1gpFvC5qH92y6RKxzlremg3_PPna0FCuWeB5IfR&AV_URL=https%3A%2F%2Fapp.televen.com%2Fplayer%2Ftv%3FchannelId%3D20000841%26categoryId%3D0%26channelNumber%3D1&AV_VIDEOID=20000841&AV_VIDEOURL=https%3A%2F%2Fapp.televen.com%2Fplayer%2Ftv%3FchannelId%3D20000841%26categoryId%3D0%26channelNumber%3D1&bpkio_serviceid=8d9766a69b764fefae1d45b89dc1e565&bpkio_sessionid=10d1b40c169-05f0e041-5e8a-4904-b9e0-905c373cb3d3&category=all&mm_sp
+
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://canalvisiondorada.com.co/wp-content/uploads/2019/10/Canal-Vision-Dorada-logo-peque-150x50.png", VISION DORADA TV
+https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/800px-Logoexitosa.png", EXITOSA TV
+http://bantel-cdn1.iptvperu.tv:1935/cdnery/exitosa.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png", SONY NOVELAS
+https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 group-title="Novelas" tvg-logo=“https://kanalddrama.com/assets/img/logotop2.png”, OLD
+https://marine2.miplay.cl/old/playlist.m3u8
+
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png", TLNOVELAS
+http://bantel.iptvperu.tv:1935/transcoder_t4/TL_Novelas_t4/playlist.m3u8
+
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://www.televisiongratishd.com/imge/pasiones.png", FREETV DRAMA
+https://amg01024-olympusat-cinereallatam-ono-ad-z5.amagi.tv/playlist/amg01024-olympusat-cinereallatam-ono/cb573d177b6c6c8884cb3b6fcef74182847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af714cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f7e80f138a6af7e3014d9c7c47fa83439c8201b285860f8315d373a3419c9af2828541d18cbd599706e627475b1d6d8b8f7d86ca58a4a8f003519f7826430c50e7afc986245087435012f9efdb806bfe1ecbfb4deb0611a9059d7bb26afe01c01cb4de5eb2a4adde41584bc2ae3f301e8ecbfadf914432b975b5a3f9cd4c6f8df9067d78dc7fd4506b52eef5df0094d04fd9f93492a3271b2ac594518dd3b18ce2ff894f8a2cc9c2e7c24d2827620011c85ead8a7dda5bbe12c99e494f362a45a9891bc088cd2c53082ed6da16be7d1abdc8c582cf1e04c875155ee465ab2d6f18cf3b6132ea21e0972c799a271ecb132ffe5d01b61884d242f4a3c8ab13288aced54be96eecac78b49c66f854127758f098455e415f33d7eb681f350bb52f90fcd8e870000eedfbc8ed80573d471f055709bfd4bd3df1e9c12d0e58c55a2212367a57c155836a8f064f5779ca1f8bf55f76d153252cb4ff6d0d0f3fceccb0d285d5991ec215b4cef92a612e4b6fcf5f6f4c68c1b3884deb764871776f7a6e0e30d5b9c7c28befabc6b6c206ed9368a535601d62b7887d233a7303ad8e06f212ba6ded8609b1dbeb51c9fd841144ff4ecbf0e01fb1ae07daf882c65d0e9dab591e66d5964f47e792a665b718a9fc0aa19450161d2e5449cf8b5aeb50f9db9f87189b22b94e0d7aef6af1f489d5803e06b7c11861776134663e2de2203aa5a6f51defff7ec395c16f46a13b884f51213644dfcd225181e7631da6f81f0aaa8dc491a4c60f11853bba25892834af590921f6df78c4b7f2a2aac93f0f40eebfa51aeffac8999a8283665f1b7c3c9ef65a575cd132bfd954b6e34e2aafc1a0cdee43bb39a239b28fb36ec339a3c0b347eeb395ecf47a12110b05ab8fa7b44495ec4a76ba7dda5f2457c9d9b3ba36ada8c96d12dd54ee810879bd7e2f0dbbccd530887ae8a86950a4ed0f7eda7b35cde585563fc036a82d373dbc8db66735cbcc18800ffcb1f21c4798070eee240f36fd649b67dea3b66e6975cc237da8f339b08de126f8fc0bfd019d/171/848x480_1686360/index.m3u8
+
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png", TLNOVELAS MX
+http://181.78.105.146:2000/play/a08d/index.m3u8
+
+#EXTINF:-1  group-title="Premium" tvg-logo=“https://archive.org/download/logo.brootv_hbo/HBO.png”, FREETV ACCION
+https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/playlist/amg01024-olympusat-topcinelatam-ono/cb573d177b6c6c8884cb3b6fcef74182847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af714cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7aae15b43d83fa1b2014d9c7c47fa83439c8201e9d1d7588345d777f3459cc6f98fd044d78cb9599506e6274759326da68e789ecc2fdeb0fc4f2b99741c7044168cca92fa5d7281424d4efd8dbdd511d001c78e2c8f613bbe13d84b8170ac79af0c93d714f5c7cade465277a5d44b5e34b4eab28fc42021b114bbc897d5676889e54e3708de7acf6c2d2a95f8df02cac01a9bf92780a2601e3dd3cb31f1f7a790d0a09f438a24c9de86fe57261f5a2a2cdc2ac8fd6cdf3a936dbac2614d362742bf9f50d090975d3f6f15cbea39d51708f7df8287ad4c518a374a0feb30df5d523bcf353425b32fadcf386ddb7e58d5606ea35c34d340ffeb76bdcda5b90e2fa1ce9d0db06eeba644c7e51ea8692f1717a0ac134f57456bd1ed7f7f5613a714ddfde4bb076369edf3deb0c35c281738653166eab2bd1ef1e9c12d0e58c55d3212177a76c65e9e03b1014d1360c80ec3930b618b022d2894d1552959639b86be8d9edbda51a67ec781db2b2a3e6d558fc9644c1dbb0810d99c42295d551fe82c6b4fb20a584bebe7b18ffbb34fbe52e0375a187950cae5034949737e6618929369ad2c8a62ed38fab837eefa8e13578431a20f179f9299047a793ea63d6ca38b79631eb3d637c46139c61ad1259cdd30dcb515351d325449cc8a51ed15d1b5fc9173ca7cfd1d513a8219cadd9c27da504b9bb133dcb79b2aa55860d6666299d7d0760978edf305e95ae9ff54938f3559306ad19809528ae93849d2653e2892a9c58fa2dd1050e45ab424992e53fd173a27ef9a6cb1c3aaa5aece2f7510c9baae7bbea3a388d8999f7529453f66db89747d43f50abccc0be8a6183cc88c88eed527d756ea27b489b361b56ef785ec40fedecdbec876115f485eb394a4ad5a88ea7830d111ec44231c939df7b434aba8db294caa0cb0cb5714ed54187ac6a4fc08cd51c8c53138e88a6c19983405c8eefb290bdb66c004376efad98e7e31ac925ac155fa7596d49603dd78d09b1b63439546539e7b8c9c3276815e/152/848x480_1686360/index.m3u8
+
+#EXTINF:-1  group-title="Premium" tvg-logo=“https://archive.org/download/logo.brootv_hbo/HBO_2.png”, CANAL D DRAMA
+https://amg01602-themahqfrance-vivekanalddrama-freetv-hd8p0.amagi.tv/playlist/amg01602-themahqfrance-vivekanalddrama-freetv/cb573d177b6c6c8884cb3b6fcef74182847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af714cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fde05f42de3da5b6014d9c7c46fa83439c8201ead1d75f8344d773a0479a96f2828017838c82599706e627475b1d6d8b8f7d86ca58a4a8eb03568a783e431554e8a29ffa4a2e874a4206ba95a2be61ec5dc98c2b936545ce6aeb7f813c29a6a91cabe05de0b4fbec475330a1d701344dd1e4a499b53423ad59e8b6e6cf76438ce4180a07a313d0363f2883a7845b93d402d8b03180b17d0b76c39e48d499b795e6b38859c65da0abf59c2e0c4f73143d885caf9f1fb343bb5ebacb16156a1730c7f040d7b9c94c39744e85992cb2797fe8e2a5ad857651a4611f49a675ca64157ec5226d7ffc5f9ff0583db00824df78579c5931930cf8b12887e5b1a5516ae0dd9744f938b8b60b8aaf54ab39695d03e1aa7e0f101f25d4ef350f332a990d8ebdcbe5644701fce7f2fcd55d3c0b3c652466ffe1e87dd581cc301006d44027743a36059301e25f856e23672fcd0d9da80760f7654b4cb6fd4f37336d92dbff8288c6da45c71cb9aead0bd55a3310d58d98a60fa9d4ae76bf50687176528d0d6d42cf7f3020d9b4b92b1d1d0cb4f157a52d761c23e4fd12530051721978f36198563f90f83fac98cb4ecde28c1c42847ee669920a6fbd1e9bdea0e93576b4af47187583d22ac07d39c857d02ec8e171d6a4540818395202aae432a907e98fca9579de44cc3e42017e748d819f93af89d275eef81401a91f795e5f733e05bbdb9a460f7ce3a826dc9087815a844d4e3a334bdfcd5510d6a83f2b953b7a6fb2b38ba5998a5240843eaf35fe690df003566ef99a6ca3c393e3ea8b6a6305db9da258f4f4dbd682859c6636204404b6ed13157bd12df5cc20e4ae1673a6c9a8edc8619a70ad64e9d3f87eaa6cee9bfc3daf969cecf238420d0d19af97858f7eb18b034bbf74cc5e6d49ccf883da51bb8bec4928901e8ae32061a1397258b3dbd80cda24b5e37967a7b06057d17b25d2a2980219db2fb32f2277929cd23923ae236e5b96144091bc062af4750264fd926577d7a7eee978/137/848x480_1686360/index.m3u8
+
+#EXTINF:-1  group-title="Premium" tvg-logo=“https://archive.org/download/logo.brootv_hbo/HBO_PLUS.png”, FREETV FAMILIA
+https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/playlist/amg01024-olympusat-juntos-ono/cb573d177b6c6c8884cb3b6fcef74182847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258af714cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fcb7594dd968a4b8014d9c7c41fa83439c8201b283d5538347d722a5169b97f1deda42d18cb1599006e627475b2d6d89810bf0a33ce680e403509d753b081950e8b1968c3f56e9624d48eafadfba6bf61ec78c2b956f6df66aff4e8023c46fa30dd5a324e0faea8a41113fa2930c6226f8bcf688af6037bc34a3f0b98820249df7477a449a37a948413994ee851d97fc1997a251e6de084d62b4fb2f8e8e8d93fdb99b4b9f3cb8a19efc6c7b604d5e7aec33a39e7e953cce47b8dc1a375d4e5ddffc3fa0d7e0701e3807ecee5fd00055b8cb9bbcdd1b35ce6c1e289e0aad580a61823b6065e83dec893d78c70018803009cd024dea2efdbc3fbba6cbf53935b4d3c2309705899318d7f3369f37523365b2f63f11414269a28d0c6c6023b42f83d2cef2391c12e085a194aa552a023c03444288edea2acee4b12819058f5236704b03039916d356ca1245726ea360dbb81d64965c6e62f1b028135c7e93cda597c9d5c549fa7bd6d9f43a2a286b99dc59764ed04e36ec239f1b643c127e8f036b4ebf0e5b3092ffabd6b8f0a04a0106d055511b76d1f857600457616a099aea1abfaf12127ccbf0e849cfee9f13488432a40052dbb85ef8478cf3a47c2ebed02e3d6287d235d17220c219c024c8d67598835408083d4e4cc79c1e9735df89c2977bca7eff0b6b1f9b39c408ef85cb1a769e7ecea14cbb7225df18180d01bdc8dc670134ceb320e949e7d198c8285b1e305dd78e0c5fc9bd394cdc7d4969aba4c49cbe8a2d248a3fa43b993b43915e0378b59778f2d5e6babaa67f440cdc81ae4e90a89cce99859d682d5d2c78b0e96b785b9466fc850ce4ed3a79ec8284ac9a4d9f67ed38becbe77cb372f085ec40fed0aefffd7605571502af96b9a942a9c9602f8c72d549220f8fcab5a4179cf4884729ba13b0ff4404c8197152cea7fe7eb808b0f43627e2c72419e27d3cc5efe8355eaf00a2333969fedd8b0c6a9cdb6e732c734a78da2a843e9227dacf68692abf3c6feb0b3cbe/13/848x480_1686360/index.m3u8
+
+#EXTINF:-1  group-title="Premium" tvg-logo=“https://archive.org/download/logo.brootv_hbo/HBO_FAMILY.png”, MC
+http://160.20.165.246:8000/play/a00a/index.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="https://i.postimg.cc/90W41RK9/logo-sin-fondo.png", ALATV by HG
+https://bit.ly/3BS5vwq
+
+#EXTINF:-1 group-title="Cine" tvg-logo="https://i.postimg.cc/9fMJgz3v/logo-inf-sin-fondo.png", ALATV INFANTIL by HG
+http://192.168.1.22:8080
+
+#EXTINF:-1  group-title="Entretenimiento" tvg-logo=“https://canal57.com/wp-content/themes/canal57/img/Canal57-Logo-White-Color.png”, CANAL 57 USA
+https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2/index.fmp4.m3u8
+
+#EXTINF:-1 group-title="Retro" tvg-logo="https://theretrochannel.tv/img/theretrofb.jpg", RETRO CHANNEL
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Retro" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/26177f175448011.Y3JvcCw4MDgsNjMyLDAsMA.jpg", TELERED
+https://k20.usastreams.com:8081/telered/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cinerama-tv-bo.png", CINERAMA TV
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
+
+#EXTINF:-1 group-title="Retro" tvg-logo=“https://www.classicchannel.digital/img/logo-radio.png”, CLASSIC CHANNEL
+https://paneltv.online:1936/8046/8046/chunklist_w1090525102.m3u8
+
+#EXTINF:-1 group-title="Premium" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-FAMILY-FONDO-2-300x169.jpg", MX FAMILY
+https://marine2.miplay.cl/mxfamily/playlist.m3u8
+
+#EXTINF:-1 group-title="Premium" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/MX-CLASIC-FONDO-2-300x169.jpg", MX CLASSIC
+https://marine2.miplay.cl/mxclassic/playlist.m3u8
+
+#EXTINF:-1  group-title="Retro" tvg-logo=“https://www.acsnetwork.tv/wp-content/uploads/2023/05/acs-network-tv-icon-new.png”, ACS NETWORK 
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w973912469.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo=“https://canalesdominicanos.live/template/images/radios/coco-tv.png”, COCO TV 
+https://cloudflare.streamgato.us:3253/live/canalcocotvlive.m3u8
+
+#EXTINF:-1  group-title="Cine" tvg-logo=“https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png”, FM COSMOS TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1 group-title="Premium" tvg-logo="https://www.fmh.la/images/team/logo_family.png", FMH FAMILY
+http://160.20.165.246:8000/play/a01j/index.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png", SONY CINE
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://www.directv.com.co/content/dam/public-sites/channels/1740.png", TLC
+http://181.78.8.90:16123/play/ch26
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://www.univision.com/_next/static/images/logo-univision-color.49f6b4c4450cea582fa78cbc00dee7d8.svg", UNIVISION 
+http://bantel.iptvperu.tv:1935/transcoder_t4/Univision_t4/playlist.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Telemundo_logo_2012.svg/800px-Telemundo_logo_2012.svg.png", TELEMUNDO INT
+http://bantel.iptvperu.tv:1935/miscelaneos/telemundo.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Cultura" tvg-logo="https://bit.ly/4akiBy3",  VISION TV
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+
+#EXTINF:-1  group-title="Entretenimiento" tvg-logo=“https://i.imgur.com/TG1T5Oh.png”, MILENIUM TV
+https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
+
+#EXTINF:-1  group-title="Series y Peliculas" tvg-logo=“https://cdn.mitvstatic.com/channels/cc5e7deb-89a9-4b94-b942-68a7ae0b935d_m.jpg”, SPACE
+http://181.78.105.146:2000/play/a04x/index.m3u8
+
+#EXTINF:-1  group-title="Retro" tvg-logo=“https://bit.ly/4ahjg35”,  TOTOVISION
+https://cdn.streamhispanatv.net:3209/live/totovisiongtlive.m3u8
+
+#EXTINF:-1  group-title="Cine" tvg-logo=“https://www.directv.com.co/content/dam/public-sites/channels/1502.png”, TNT 
+http://181.78.8.90:16123/play/a08i
+
+#EXTINF:-1  group-title="Entretenimiento" tvg-logo=“https://i.imgur.com/Hl5wowk.png”, ECUAVISA
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo=“https://apksos.com/storage/images/extrema/radiotv/extrema.radiotv_1.png”, EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1  group-title="Kids" tvg-logo=“https://www.vivalivetv.com/public/files/shows/0/1/3027-294x165-FFFFFF.jpg”, EXTREMA KIDS TV
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w1184757937.m3u8
+
+#EXTINF:-1  group-title="Kids" tvg-logo=“https://pbs.twimg.com/profile_images/1459728008953147399/28B_SNFF_400x400.jpg”, LATINOKIDS
+https://cloud5.streaminglivehd.com:3555/live/latinokidslive.m3u8
+
+#EXTINF:-1 group-title="Retro"  tvg-logo=“https://online-television.net/uploads/posts/2023-03/retro-cartoon-channel.webp”, RETRO CARTOON
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="https://bit.ly/3UFTO1l”, LUNAVISION
+https://cdn.streamhispanatv.net:3670/live/lunavisionlive.m3u8
+
+#EXTINF:-1 group-title="Retro" tvg-logo=“https://bit.ly/4ah6phh”, SOLTV
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo=“https://i.ibb.co/YT9Lc0P/Soncorazonlogo.png”, SON CORAZON 
+https://hvtraficonew.ddns.net/pastocnc3/cnc3/playlist.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAfLRTXz2TSfm1mnaockF7rWtYShJTJ8wMzQ&usqp=CAU", GARABITO TV
+https://59ef525c24caa.streamlock.net:443/garabitoTV/garabitotv/chunklist_w1463613344.m3u8
+
+#EXTINF:-1 group-title="Retro" tvg-logo=“https://www.dreikotv.com/wp-content/uploads/2023/04/cropped-logo-1536x1060.png”, DREICO TV
+https://cloudvideo.servers10.com:8081/8138/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  group-title="Kids" tvg-logo=“https://www.telezumiko.com/img/dkids.png”, DISCOVERY KIDS
+http://181.78.105.146:2000/play/a015/index.m3u8
+
+#EXTINF:-1 group-title="Premium" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/05/03.Logo-Cine-Hispano-Alpha-AOriginal-1024x576.png", CINE HISPANO
+http://bantel.iptvperu.tv:1935/transcoderip/cinehispano_t1/playlist.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo=“https://pbs.twimg.com/media/EyiQXIiXIAEFpCN.jpg”, CASCARA TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo=“https://i.pinimg.com/originals/23/3d/3a/233d3a525a56d444071a7f14b919ea7d.png”, LIMON TV
+http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
+
+#EXTINF:-1 group-title="Entreteniento" tvg-logo=“https://i.imgur.com/HBOHkgL.png”, PLANETA TV
+https://live.obslivestream.com/planetatv/index.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/800px-Espn.png", ESPN 
+http://181.78.105.146:2000/play/a064/index.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Espn.png/800px-Espn.png", ITV DEPORTES
+https://stream.ads.ottera.tv/cl/240813cqtts2d5vq6pjtqd1ie0/960x540_1240562_2_f.m3u8?i=475_7397
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/WinSportsM%C3%A1s2022.png", WIN SPORT +
+http://167.250.135.246:81/play/a097/index.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/GOLTV.png/800px-GOLTV.png", GOLTV PERU
+http://190.61.55.186:1010/play/a010/index.m3u8
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://archive.org/download/sky-sports-logo/sky-sports-logo.png", SKY SPORT
+http://181.78.105.146:2000/play/a08m/index.m3u8
+
+#EXTINF:-1 group-title="Musica" tvg-logo=“https://supertrendy.net/wp-content/uploads/2023/09/mix-pngeee.png”, MIX MUSIC CHANNEL
+https://cdamix.streaming.ws/mixmusic/live/chunklist_w1500787570.m3u8
+
+#EXTINF:-1 group-title="Retro" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg", OLD
+https://marine2.miplay.cl/old/playlist.m3u8
+
+#EXTINF:-1 group-title="Musica" tvg-logo=“https://i.ibb.co/V2yc9L2/Canal-CNC-Sentimiento-Vallenato-tvtolive-com.jpg”, SENTIMIENTO VALLENATO 
+https://hvtraficonew.ddns.net/pastocnc4/cnc4/playlist.m3u8
+
+#EXTINF:-1  group-title="Musica" tvg-logo=“https://miplay.cl/wp-content/uploads/2022/01/OLD-MUSIC-FONDO-2-300x169.jpg”, OLD MUSIC
+https://marine2.miplay.cl/oldmusic/playlist.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo=“https://www.vivalivetv.com/public/files/shows/0/1/1125-294x165-FFFFFF.jpg”, FRECUENCIA MUSICAL TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mega_TV_logo_2016.svg/2560px-Mega_TV_logo_2016.svg.png”, MEGA TV
+https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo=“https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png”, MY TIME MOVIE
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Noticias" tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg”, DW ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Cristiana" tvg-logo=“https://static.wixstatic.com/media/3a97ab_8b5da15a759048218b977209c0e97f2d.png”, AVIVAMIENTO
+https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg”, NETTV
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Retro" tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg”, Mi TV TELEVISION CLASICA
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Retro" tvg-logo=“https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3cd5a38936b50ea78212770473565ee6.webp”, MOVIE FE
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo=“https://latinartv.com/sites/default/files/styles/poster/public/logos/cine-real.jpg?itok=xcg6JUt0”, CINE REAL
+https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo=“https://1.bp.blogspot.com/-c-WycWEw_H4/XtwM659Hk6I/AAAAAAAAASw/4ftRzkVVr2INhSlklwgV8K4c-FajWgOeQCK4BGAYYCw/s975/PARA%2BLA%2BPAGINA.png”, CROM TV
+https://cnn.essastream.com:3333/live/cromtvlive.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo=“https://storage.googleapis.com/web-willax-assets/files/image/7zRPxFe0yuYOY3whoVfPCARUxTcRekCHz4kawXsn.png”, WILLAX
+https://live-evg4.tv360.bitel.com.pe/bitel/willax/playlist.m3u8?manifestfilter=video_bitrate:1-4194304&uid=74530
+
+#EXTINF:-1 group-title="Religion" tvg-logo=“https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20240214T035644SQUARE.png_20240214035644.png&h=250”, TU CINE
+https://tucine-plex.amagi.tv/TuCine-xumo/master_6.m3u8
+
+#EXTINF:-1 group-title="24/7" tvg-logo=“https://upload.wikimedia.org/wikipedia/commons/5/5f/Rakuten_TV_2017_logo.png”, RAKUTEN TV
+https://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="24/7" tvg-logo=“https://i.imgur.com/N6H91zk.png”, HORRIFY
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+
+#EXTINF:-1 group-title="24/7" tvg-logo=“https://www.telezumiko.com/img/besponja.png”, BOB ESPONJA 24/7
+http://51.159.104.29:8080/bobesponja/index.m3u8
